@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/sd306/sd306/_apis/build/status/nanminator.ContosoAir?branchName=master)](https://dev.azure.com/sd306/sd306/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
